@@ -1,6 +1,7 @@
 # assignment
 
 A new Flutter project.
+Run flutter run command to run the application.
 
 ## Getting Started
 
